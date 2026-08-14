@@ -1,4 +1,4 @@
-import founderPhoto from "./assets/founder.png";
+import founderPhoto from "./assets/founder.webp";
 import "./App.css";
 const hvacUrl = "https://hvac-quote-pro.onrender.com";
 
