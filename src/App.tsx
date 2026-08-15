@@ -359,11 +359,13 @@ function App() {
 
             <div className="contact-actions">
               <a
-                className="button button-primary"
-                href="mailto:smartdealswithaziz@gmail.com"
-              >
-                Contact SDA Technologies
-              </a>
+  className="button button-primary"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=smartdealswithaziz@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  Contact SDA Technologies
+</a>
 
               <a className="button button-secondary" href={hvacUrl}>
                 Explore HVAC Quote Pro
